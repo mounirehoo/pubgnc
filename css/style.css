@@ -178,7 +178,8 @@ header {
 header h1 {
 	text-align: center;
     font-size: 94px;
-    color: #10eba4;
+    color: #ffa914;
+    text-shadow: 2px 2px 15px rgba(0, 0, 0, 0.73), -2px -2px 15px rgba(0, 0, 0, 0.58);
 }
 header p {
 	font-size: 1.4em;
