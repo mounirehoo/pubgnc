@@ -1298,7 +1298,7 @@ header.parallaxme {
 .instructions-text {
     max-width: 700px;
     margin: 0 auto;
-    padding: 0 73px;
+    padding: 8px 73px;
 }
 p {
     font-family: "beINNormal";
